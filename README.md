@@ -35,7 +35,6 @@ Para ejecutar este proyecto de forma local, necesitas tener instalado Python y l
 ## 🎮 Controles de Juego
 Una vez dentro de la partida, los controles para el jugador activo son los siguientes:
 
- ```bash
 
   | Tecla | Acción |
 | :--- | :--- |
@@ -46,7 +45,7 @@ Una vez dentro de la partida, los controles para el jugador activo son los sigui
 | `MANTENER ESPACIO` | Cargar la fuerza del disparo (Barra roja). |
 | `SOLTAR ESPACIO` | Disparar el proyectil. |
 | `ESC` | Abandonar la partida y volver al menú. |
-```
+
 
 ## 🗺️ Creación de Niveles (Modding)
 
