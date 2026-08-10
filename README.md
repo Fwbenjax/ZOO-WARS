@@ -37,14 +37,15 @@ Una vez dentro de la partida, los controles para el jugador activo son los sigui
 
  ```bash
 
-   Tecla,Acción
-FLECHA IZQUIERDA,Caminar hacia la izquierda.
-FLECHA DERECHA,Caminar hacia la derecha.
-FLECHA ARRIBA,Elevar el ángulo del cañón.
-FLECHA ABAJO,Bajar el ángulo del cañón.
-MANTENER ESPACIO,Cargar la fuerza del disparo (Barra roja).
-SOLTAR ESPACIO,Disparar el proyectil.
-ESC,Abandonar la partida y volver al menú.
+  | Tecla | Acción |
+| :--- | :--- |
+| `FLECHA IZQUIERDA` | Caminar hacia la izquierda. |
+| `FLECHA DERECHA` | Caminar hacia la derecha. |
+| `FLECHA ARRIBA` | Elevar el ángulo del cañón. |
+| `FLECHA ABAJO` | Bajar el ángulo del cañón. |
+| `MANTENER ESPACIO` | Cargar la fuerza del disparo (Barra roja). |
+| `SOLTAR ESPACIO` | Disparar el proyectil. |
+| `ESC` | Abandonar la partida y volver al menú. |
 ```
 
 ## 🗺️ Creación de Niveles (Modding)
