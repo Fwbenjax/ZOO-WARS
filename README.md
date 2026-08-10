@@ -35,6 +35,8 @@ Para ejecutar este proyecto de forma local, necesitas tener instalado Python y l
 ## 🎮 Controles de Juego
 Una vez dentro de la partida, los controles para el jugador activo son los siguientes:
 
+ ```bash
+
    Tecla,Acción
 FLECHA IZQUIERDA,Caminar hacia la izquierda.
 FLECHA DERECHA,Caminar hacia la derecha.
