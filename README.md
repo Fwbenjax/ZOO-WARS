@@ -45,6 +45,7 @@ FLECHA ABAJO,Bajar el ángulo del cañón.
 MANTENER ESPACIO,Cargar la fuerza del disparo (Barra roja).
 SOLTAR ESPACIO,Disparar el proyectil.
 ESC,Abandonar la partida y volver al menú.
+```
 
 ## 🗺️ Creación de Niveles (Modding)
 Puedes crear tus propios escenarios añadiendo un archivo .txt dentro de la carpeta levels/. El motor del juego leerá el archivo utilizando la siguiente nomenclatura:
