@@ -32,7 +32,7 @@ Para ejecutar este proyecto de forma local, necesitas tener instalado Python y l
 
    python main.py
 
-   🎮 Controles de Juego
+## 🎮 Controles de Juego
 Una vez dentro de la partida, los controles para el jugador activo son los siguientes:
 
    Tecla,Acción
@@ -44,7 +44,7 @@ MANTENER ESPACIO,Cargar la fuerza del disparo (Barra roja).
 SOLTAR ESPACIO,Disparar el proyectil.
 ESC,Abandonar la partida y volver al menú.
 
-🗺️ Creación de Niveles (Modding)
+## 🗺️ Creación de Niveles (Modding)
 Puedes crear tus propios escenarios añadiendo un archivo .txt dentro de la carpeta levels/. El motor del juego leerá el archivo utilizando la siguiente nomenclatura:
 
 . (Punto): Aire / Espacio vacío.
@@ -55,7 +55,9 @@ Puedes crear tus propios escenarios añadiendo un archivo .txt dentro de la carp
 
 2: Punto de aparición (Spawn) para el Equipo 2.
 
-Ejemplo del mapa:
+#Ejemplo del mapa:
+
+ ```bash
 ..............................
 ..............................
 ...1......................2...
