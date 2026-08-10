@@ -48,17 +48,15 @@ ESC,Abandonar la partida y volver al menú.
 ```
 
 ## 🗺️ Creación de Niveles (Modding)
-Puedes crear tus propios escenarios añadiendo un archivo .txt dentro de la carpeta levels/. El motor del juego leerá el archivo utilizando la siguiente nomenclatura:
 
-. (Punto): Aire / Espacio vacío.
+Puedes crear tus propios escenarios añadiendo un archivo `.txt` dentro de la carpeta `levels/`. El motor del juego leerá el archivo utilizando la siguiente nomenclatura:
 
-# (Numeral): Bloque de tierra destructible.
+* `.` (Punto): Aire / Espacio vacío.
+* `#` (Numeral): Bloque de tierra destructible.
+* `1`: Punto de aparición (Spawn) para el Equipo 1.
+* `2`: Punto de aparición (Spawn) para el Equipo 2.
 
-1: Punto de aparición (Spawn) para el Equipo 1.
-
-2: Punto de aparición (Spawn) para el Equipo 2.
-
-#Ejemplo del mapa:
+**Ejemplo de mapa:**
 
  ```bash
 ..............................
